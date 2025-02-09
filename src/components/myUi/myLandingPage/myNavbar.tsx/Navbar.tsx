@@ -16,7 +16,7 @@ const Navbar = () => {
 
             <div className="flex items-center gap-2 px-3">
                 <Image src="/openSource.svg" alt="Logo" width={45} height={45} className="md:h-[45px] md:w-[45px] h-[35px] w-[35px]" />
-                <h1 className="text-white md:text-[25px] text-[16px] font-bold">WatchParty</h1>
+                <h1 className="text-white md:text-[25px] text-[16px] font-bold">Cupid</h1>
             </div>
             <div className="flex items-center px-3">
                 {

@@ -7,6 +7,8 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import Navbar from '@/components/myUi/myLandingPage/myNavbar.tsx/Navbar'
+import { Toaster } from "@/components/ui/sonner"
+
 
 
 const geistSans = Geist({
@@ -36,6 +38,7 @@ export default function RootLayout({
           <header>
             <Navbar />
           </header>
+          <Toaster />
           {children}
         </body>
       </html>
