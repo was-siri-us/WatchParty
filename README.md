@@ -2,7 +2,7 @@
 
 **WatchParty** is a Next.js application that allows users to stream videos using **WebTorrent** and enjoy a synced playback experience with friends using **Socket.IO**. It’s designed to be fast, lightweight, and ideal for creating shared movie nights or collaborative video sessions directly in the browser.
 
----
+
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@
 - 🧑‍🤝‍🧑 Room-based session handling for isolated watch parties
 - 🧩 Built with modern web stack (Next.js, React, Node.js, Socket.IO)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +21,7 @@
 - **Real-Time Communication:** Socket.IO
 - **P2P Streaming:** WebTorrent
 
----
+
 
 ## 📦 Installation
 
